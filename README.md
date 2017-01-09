@@ -53,4 +53,5 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 
 #### Optional
 
- - If you prefer a dark theme instead of the default one the editor uses then go to **Window -> Preferences -> General -> Appearance** and choose **Dark** from the **Theme** dropdown.
+ - If you prefer a dark theme instead of the default one the editor uses...
+    **Window -> Preferences -> General -> Appearance** then choose **Dark** from the **Theme** dropdown.
