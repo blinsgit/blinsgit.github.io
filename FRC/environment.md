@@ -15,7 +15,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 
  2. You should see a link at the top like the following:
 
-    ![alt text](./images/jselink.png "image") 
+    ![alt text](../images/jselink.png "image") 
 
  3. Be sure to download the correct version:
 
@@ -26,11 +26,11 @@ This is intended to supplement the material from here: [https://wpilib.screenste
  1. Download and run the installer from here: 
     [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
 
-    ![alt text](./images/eclipse1.png "image")
+    ![alt text](../images/eclipse1.png "image")
 
  2. When prompted, chose the version indicated below:
 
-    ![alt text](./images/neon.png "image") 
+    ![alt text](../images/neon.png "image") 
 
 
 ### Configure Eclipse
