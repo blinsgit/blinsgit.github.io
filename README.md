@@ -50,6 +50,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
  6. A security warning will appear because unfortunately the packages from First contain unsigned content. You must click the **OK** button to allow the content anyways.
  7. You should be prompted to restart Eclipse, click **Yes**.
 
+
 #### Optional
 
-- If you prefer a dark theme instead of the default one the editor uses then go to **Window -> Preferences -> General -> Appearance** and choose **Dark** from the **Theme** dropdown.
+ - If you prefer a dark theme instead of the default one the editor uses then go to **Window -> Preferences -> General -> Appearance** and choose **Dark** from the **Theme** dropdown.
