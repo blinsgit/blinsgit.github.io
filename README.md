@@ -32,9 +32,16 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 
 ### Configure Eclipse
 
-1. Enable automatic save before each build...
+1. Go to Go to **Window -> Preferences** and esure the following options are **checked**...
 
-    Go to Window -> Preferences -> General -> Workspace -> Check Save automatically before build -> OK
-    
-    ![alt text](./images/eclipse_config1.png "image")
-    
+    **General -> Workspace -> Check Save automatically before build.**
+    **General -> Workspace -> Automatically find new updates and notify me.**
+
+2. Click OK to save changes and exit the Preferences dialog.
+3. Click "Install new software".
+4. Click "Add..." and enter the following for name and location fields:
+    Name: FRC Plugins
+    Location: http://first.wpi.edu/FRC/roborio/release/eclipse/
+5. Click **OK**, **Next** then **Finish**
+6. A security warning will appear because unfortunately the packages from First contain unsigned content. You must click the **OK** button to allow the content anyways.
+7. You should be prompted to restart Eclipse, click **Yes**.
