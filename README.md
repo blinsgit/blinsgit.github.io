@@ -8,7 +8,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 
 ### Mac OS Instructions (based on macOS Sierra 10.12.2.)
 
-*WARNING: While you will be able to edit and compile code, it is only possible to control the robot from a Windows environment.*
+ *WARNING: While you will be able to edit and compile code, it is only possible to control the robot from a Windows environment.*
 
  1. Download and install the latest JDK from here:
     [https://www.oracle.com/technetwork/java/javase/downloads/index.html](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
@@ -35,7 +35,6 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 
 ### Configure Eclipse
 
-
  1. Go to Go to **Window -> Preferences** and esure the following options are **checked**...
 
     **General -> Workspace -> Check Save automatically before build.**
@@ -50,3 +49,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
  5. Click **OK**, **Next** then **Finish**
  6. A security warning will appear because unfortunately the packages from First contain unsigned content. You must click the **OK** button to allow the content anyways.
  7. You should be prompted to restart Eclipse, click **Yes**.
+
+#### Optional
+
+- If you prefer a dark theme instead of the default one the editor uses then go to **Window -> Preferences -> General -> Appearance** and choose **Dark** from the **Theme** dropdown.
