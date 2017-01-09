@@ -1,9 +1,9 @@
-## Setup FRC Java Development Environment
+# Setup FRC Java Development Environment
 
 This is intended to supplement the material from here: [https://wpilib.screenstepslive.com](https://wpilib.screenstepslive.com)
 
 
-### Mac OS Instructions (based on macOS Sierra 10.12.2.)
+## Mac OS Instructions (based on macOS Sierra 10.12.2.)
 
  *WARNING: While you will be able to edit and compile code, it is only possible to control the robot from a Windows environment.*
 
@@ -18,7 +18,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 
     ![alt text](./images/jdk8111os.png "image")
 
-### Install Eclispse IDE
+## Install Eclispse IDE
 
  1. Download and run the installer from here: 
     [https://www.eclipse.org/downloads/](https://www.eclipse.org/downloads/)
@@ -30,7 +30,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
     ![alt text](../images/neon.png "image") 
 
 
-### Configure Eclipse
+## Configure Eclipse
 
  1. Go to Go to **Window -> Preferences** and esure the following options are **checked**...
 
@@ -48,7 +48,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
  7. You should be prompted to restart Eclipse, click **Yes**.
 
 
-#### Optional
+### Optional
 
  - If you prefer a dark theme instead of the default one the editor uses...
     **Window -> Preferences -> General -> Appearance** then choose **Dark** from the **Theme** dropdown.
