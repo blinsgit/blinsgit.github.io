@@ -1,6 +1,3 @@
-# My README
-
-
 ## Setup FRC Java Development Environment
 
 This is intended to supplement the material from here: [https://wpilib.screenstepslive.com](https://wpilib.screenstepslive.com)
