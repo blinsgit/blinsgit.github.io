@@ -35,6 +35,7 @@ This is intended to supplement the material from here: [https://wpilib.screenste
 1. Go to Go to **Window -> Preferences** and esure the following options are **checked**...
 
     **General -> Workspace -> Check Save automatically before build.**
+    
     **General -> Workspace -> Automatically find new updates and notify me.**
 
 2. Click OK to save changes and exit the Preferences dialog.
